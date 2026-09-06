@@ -1,3 +1,5 @@
+https://romanplyta.github.io/Post-machine/
+
 # ⚙️ Post Machine
 
 This is a lightweight web project built entirely with vanilla web technologies. It is designed to be simple, fast, and completely independent of any bundlers, frameworks, or external libraries.
